@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var theme = {\n  background: '#fff'\n};","map":{"version":3,"sources":["/home/bstudent/project/pass3/src/colors/Main.js"],"names":["theme","background"],"mappings":"AAAA,OAAO,IAAMA,KAAK,GAAE;AAChBC,EAAAA,UAAU,EAAG;AADG,CAAb","sourcesContent":["export const theme ={\n    background : '#fff',\n};"]},"metadata":{},"sourceType":"module"}

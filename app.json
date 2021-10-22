@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "DREAM PASS",
+    "slug": "start",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/dreamPass_x64.png",
+    "splash": {
+      "image": "./assets/images/main_window.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0047FF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/dreamPass_x64.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
